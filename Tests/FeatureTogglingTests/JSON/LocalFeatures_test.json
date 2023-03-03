@@ -1,0 +1,16 @@
+//include wrong data format
+[{
+   "feature": "+,
+   "enabled": true
+},
+{
+   "feature": "-",
+   "enabled": true
+},{
+   "feature": "*",
+   "enabled": true
+},
+{
+   "feature": "/",
+   "enabled": true
+}]

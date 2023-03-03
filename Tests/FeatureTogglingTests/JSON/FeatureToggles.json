@@ -1,0 +1,16 @@
+
+     [{
+        "feature": "+",
+        "enabled": true
+    },
+    {
+        "feature": "-",
+        "enabled": true
+    },{
+        "feature": "*",
+        "enabled": true
+    },
+    {
+        "feature": "/",
+        "enabled": true
+    }]

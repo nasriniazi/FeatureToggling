@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "logmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/LogManager.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "32ceeb0caf823a3de5de3e6c25a775eefaeed548"
+      }
+    },
+    {
+      "identity" : "theme",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/Theme.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "58b671d721eb77697c03cbae533f070214e1dd82"
+      }
+    }
+  ],
+  "version" : 2
+}
